@@ -1,0 +1,8 @@
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\bin\Debug\test.exe.config
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\bin\Debug\test.exe
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\bin\Debug\test.pdb
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\obj\Debug\test.exe
+C:\Users\Manwa Ghanayem\Documents\ConsoleApp1\test\obj\Debug\test.pdb
